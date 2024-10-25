@@ -1,0 +1,29 @@
+#name {
+    color: blue;
+}
+
+#birth {
+
+    color:red
+}
+
+#class {
+    color:brown;
+
+}
+
+#major {
+
+    color: orange;
+}
+
+#year {
+
+    color: purple;
+}
+
+
+.bg-color {
+    background-color: black;
+    color: white;
+}
