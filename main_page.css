@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+    background-color: lightblue;
+    max-width: 400px;
+    margin: 20px auto;
+    border: 4px solid black;
+    border-radius: 8px;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+   
+}
+
+p a {
+    color: black;
+}
+
+p a:hover {
+    color: white;
+    background-color: black;
+}
+
+body {
+    background-color: lightgray;
+}
+
